@@ -19,11 +19,7 @@ DishDiscovery is a Flutter application designed to bring the joy of exploring an
 
 ## Screenshots
 
-![Logo](assets/Faily.png)
-![Home](assets/Home.jpeg)
-![Favorite](assets/Favorite.jpeg)
-![Meal_Recipe](assets/Meal_Recipe_1.jpeg)
-![Meal_Recipe_](assets/Meal_Recipe_2.jpeg)
+![Logo](assets/DishDiscovery.png)
 
 ## Demo Video
 <!-- linkedin link -->
